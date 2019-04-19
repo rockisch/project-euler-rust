@@ -1,0 +1,9 @@
+[package]
+name = "rust-euler"
+version = "0.1.0"
+authors = ["rockisch"]
+edition = "2018"
+
+[dependencies]
+num = "*"
+ndarray = "*"
